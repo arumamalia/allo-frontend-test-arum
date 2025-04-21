@@ -1,6 +1,5 @@
 <template>
-  <RocketList />
-  <Modal />
+  <RocketDetail />
 </template>
 
 <script lang="ts" setup>
